@@ -1,6 +1,6 @@
 {
   "name": "json-rpc-middleware-stream",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -8,8 +8,6 @@
   },
   "dependencies": {
     "end-of-stream": "^1.4.0",
-    "eth-block-tracker": "^2.1.2",
-    "ethjs-query": "^0.2.9",
     "json-rpc-engine": "^3.0.1",
     "readable-stream": "^2.3.3"
   },
@@ -19,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kumavis/json-rpc-middleware-stream.git"
+    "url": "git+https://github.com/AuraMask/json-rpc-middleware-stream.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kumavis/json-rpc-middleware-stream/issues"
+    "url": "https://github.com/AuraMask/json-rpc-middleware-stream/issues"
   },
-  "homepage": "https://github.com/kumavis/json-rpc-middleware-stream#readme"
+  "homepage": "https://github.com/AuraMask/json-rpc-middleware-stream#readme"
 }
