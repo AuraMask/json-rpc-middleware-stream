@@ -1,19 +1,18 @@
 {
-  "name": "json-rpc-middleware-stream",
-  "version": "0.0.1",
+  "name": "irc-json-rpc-middleware-stream",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "directories": {
-    "test": "test"
+  "scripts": {
+    "test": "node test"
   },
   "dependencies": {
     "end-of-stream": "^1.4.0",
     "json-rpc-engine": "^3.0.1",
     "readable-stream": "^2.3.3"
   },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "devDependencies": {
+    "tape": "^4.9.1"
   },
   "repository": {
     "type": "git",
